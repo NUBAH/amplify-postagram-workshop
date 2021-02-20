@@ -1,6 +1,6 @@
 {
     "identityPoolName": "postagram3ae9af60_identitypool_3ae9af60",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "postag3ae9af60",
     "userPoolName": "postagram3ae9af60_userpool_3ae9af60",
     "autoVerifiedAttributes": [
